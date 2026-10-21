@@ -153,13 +153,13 @@
 
 <script setup>
 import { ref, computed } from 'vue'
-import show1 from '@/assets/1.PNG'
-import show2 from '@/assets/2.PNG'
-import show3 from '@/assets/3.PNG'
-import show4 from '@/assets/4.PNG'
-import show5 from '@/assets/5.PNG'
-import show6 from '@/assets/6.PNG'
-import show7 from '@/assets/my1.PNG'
+import show1 from '@/assets/1.png'
+import show2 from '@/assets/2.png'
+import show3 from '@/assets/3.png'
+import show4 from '@/assets/4.png'
+import show5 from '@/assets/5.png'
+import show6 from '@/assets/6.png'
+import show7 from '@/assets/my1.png'
 
 const items = ref([
   { icon: 'devicon-html5-plain' },

@@ -33,7 +33,7 @@ import { ref } from 'vue'
 import webImg from '@/assets/code.AVIF'
 import photoImg from '@/assets/photo.AVIF'
 import lifeImg from '@/assets/life.AVIF'
-import winImg from '@/assets/TZ.JPG'
+import winImg from '@/assets/TZ.jpg'
 
 const items =ref([
   { title: '關於 TZ', subtitle: '以多重角色與經歷為經緯，將一路走來的點滴與養分，揉合成此刻踏實前行的自己。', link: '/about', image: winImg},
