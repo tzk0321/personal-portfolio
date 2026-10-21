@@ -30,9 +30,9 @@
 
 <script setup>
 import { ref } from 'vue'
-import webImg from '@/assets/code.AVIF'
-import photoImg from '@/assets/photo.AVIF'
-import lifeImg from '@/assets/life.AVIF'
+import webImg from '@/assets/code.avif'
+import photoImg from '@/assets/photo.avif'
+import lifeImg from '@/assets/life.avif'
 import winImg from '@/assets/TZ.jpg'
 
 const items =ref([
